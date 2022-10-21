@@ -1,0 +1,11 @@
+[package]
+name = "jrs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cafebabe.path = "../cafebabe"
+cranelift-codegen = "0.88.1"
+cranelift-frontend = "0.88.1"
+cranelift-jit = "0.88.1"
+cranelift-module = "0.88.1"
